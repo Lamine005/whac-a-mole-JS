@@ -14,3 +14,8 @@
 .mole{
     background-color: blue;
 }
+
+/* or .mole {
+	background-image: url("mole.jpg");
+	background-size: cover;
+} if we wanna use an image */
